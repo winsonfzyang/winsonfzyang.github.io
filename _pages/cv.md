@@ -15,7 +15,6 @@ Education
 ======
 * Ph.D in Experimental Psychology (Cognitive Psychology), Texas Tech University, 2023 (expected)
 * M.S. in Cognitive and Clinical Neuroscience (Neuropsychology), Maastricht University, 2017
-* B.A. in Psychology, James Cook University, 2015
 
 
 Work experience
@@ -79,6 +78,3 @@ Teaching
 Service and leadership
 ======
 * Volunteer (translation, young adult division, ongoing activities) at regional Buddhist Monastery in San Francisco
-* Volunteer at Institute of Mental Health in Singapore (2014)
-* Volunteer at Rainbow Center for special needs youths (2014)
-* Mind Stimulation Activities practitioner volunter at National Kidney Foundation (2014)
